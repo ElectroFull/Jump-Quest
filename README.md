@@ -18,6 +18,11 @@ Players collect coins and overcome obstacles to unlock four progressively harder
   - “Congratulations” screen  
 - **Level design** – Four handcrafted layouts with increasing difficulty
 
+## Game Flowchart
+
+![image](https://github.com/user-attachments/assets/d238fca4-cfbb-422c-8504-461cbfd2634a)
+
+
 # Gameplay
 
 ![image](https://github.com/user-attachments/assets/91062c08-d3b0-416c-ae6b-8516bf5d3af7)
